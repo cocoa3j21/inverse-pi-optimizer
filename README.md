@@ -14,7 +14,7 @@
 ![Inverse Pi Energy](anti_circle_energy.png)
 
 ### 2. 最適化アルゴリズムの比較 (`anti_circle_optimizer.py`)
-多数のローカルミニマを持つ関数に対し、対称ノイズ（$\pi$）と非対称ノイズ（逆$\pi$）を用いた焼きなまし法（SA）を実行し、大域的最適解への到達率を比較します。
+多数のローカルミニマを持つ関数に対し、対称ノイズ（$\pi$）と非対称ノイズ（逆 $\pi$ ）を用いた焼きなまし法（SA）を実行し、大域的最適解への到達率を比較します。
 
 ![Optimization Escape](optimization_escape.png)
 
