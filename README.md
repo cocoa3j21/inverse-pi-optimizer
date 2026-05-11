@@ -4,7 +4,7 @@
 
 ## 📖 詳しい解説 (Zenn Article)
 本プロジェクトの哲学的な背景とアルゴリズムの解説は、以下のZenn記事をご覧ください。
-[【Python】不可解な「逆円周率ノイズ」を、局所解からAIを救うアテにする](https://zenn.dev/articles/b72a764450e23a) 
+[【Python】不可解な「逆円周率ノイズ」を、局所解からAIを救うアテにする](https://zenn.dev/cocoa3j21/articles/b72a764450e23a)
 
 ## 🚀 収録スクリプトと実行結果
 
