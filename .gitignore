@@ -1,0 +1,8 @@
+# Python キャッシュ・一時物
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS 生成物
+Thumbs.db
+.DS_Store
