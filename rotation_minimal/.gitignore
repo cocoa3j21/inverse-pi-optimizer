@@ -1,0 +1,5 @@
+# 実行ログはローカル再生成（巨大 JSON/CSV はミラーに載せない）
+results/
+__pycache__/
+*.csv
+*.json

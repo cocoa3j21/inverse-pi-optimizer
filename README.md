@@ -34,6 +34,21 @@
 
 ---
 
+## 🔄 rotation_minimal（回転対称ポテンシャル）
+
+逆πシリーズのサテライトとして、**2D 回転対称ポテンシャル**上で 5 ノイズ条件の焼きなまし法を最小構成で比較します。
+結論は**示唆**のみ（最適化の一般定理や物理法則の確定ではありません）。
+
+| 公開ミラー（本リポジトリ） | 開発正本 |
+| :--- | :--- |
+| [`rotation_minimal/`](rotation_minimal/) — スクリプト・README・代表図 | [Labs/rotation_minimal @ ai-budget-meter](https://github.com/cocoa3j21/ai-budget-meter/tree/master/Labs/rotation_minimal) |
+
+詳細・復旧推定表: [`rotation_minimal/README.md`](rotation_minimal/README.md)
+
+![rotation_minimal 代表図（--quick）](rotation_minimal/figures/rotation_minimal_quick.png)
+
+---
+
 ## 🚀 収録スクリプトと実行結果
 
 ### 1. 軌跡のシミュレーション (`anti_circle_generator.py`)
