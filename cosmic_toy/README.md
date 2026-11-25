@@ -69,9 +69,9 @@ python cosmic_collapse_time_arrow.py
 
 ## 今後の予定
 
-1. 玩具宇宙向け Zenn 記事（示唆トーン・Q1–Q5 対応）
-2. `rotation_minimal`（回転対称探索）のミラー反映
-3. 開発正本との差分はスクリプト SHA と代表図のみを定期同期
+1. 玩具宇宙向け Zenn 記事（示唆トーン・Q1–Q5 対応）— **完了**（草案済み・上記リンク）
+2. `rotation_minimal`（回転対称探索）のミラー反映 — **完了**（[`../rotation_minimal/`](../rotation_minimal/)）
+3. 開発正本との差分はスクリプト SHA と代表図のみを定期同期（継続メモ）
 
 ## トーンポリシー
 

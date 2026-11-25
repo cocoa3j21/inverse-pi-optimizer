@@ -70,3 +70,13 @@ python rotation_minimal.py --multiseed --trials 1000
 
 - 「証明された」「逆πが最強」「物理法則の確定」とは**書かない**。
 - 試行数・シードに依存する差は**示唆**として述べる。
+
+## 今後の予定
+
+以下は **完了**（2026-11-25）。
+
+| # | 項目 | 状態 |
+| :--- | :--- | :--- |
+| 2 | `rotation_minimal` ミラー反映 | **完了** — 本ディレクトリ |
+| 3 | Zenn 記事（cosmic） | **完了** — 開発正本 [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md) |
+| 4 | Zenn 記事（rotation） | **完了** — 本 README・ミラー導線（専用 Zenn 執筆は任意）。**示唆**・**解釈実験**として記載 |
