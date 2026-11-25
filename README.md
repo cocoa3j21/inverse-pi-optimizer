@@ -17,6 +17,8 @@
 
 [【Python】不可解な「逆円周率ノイズ」を、局所解からAIを救うアテにする](https://zenn.dev/cocoa3j21/articles/b72a764450e23a)
 
+> **§4（マトリクス対照・実測）** — 2026-11-25 時点の公開本文は本 README の先に結論表と整合（「平均歩幅統制で仮説を**さらに強める**」系の論理飛躍は差し替え済み。**示唆・玩具モデル**の範囲）。人手で上書きするときの正本: [`zenn_article_section_4_measured.md`](zenn_article_section_4_measured.md)
+
 ---
 
 ## 🌌 cosmic_toy（閉じた玩具宇宙）
