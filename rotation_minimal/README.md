@@ -63,7 +63,8 @@ python rotation_minimal.py --multiseed --trials 1000
 | 種別 | URL |
 | :--- | :--- |
 | **Zenn（逆πマトリクス）** | [不可解な「逆円周率ノイズ」を、局所解からAIを救うアテにする](https://zenn.dev/cocoa3j21/articles/b72a764450e23a) |
-| **Zenn（rotation_minimal・既存記事）** | [Zenn 記事](https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c) |
+| **Zenn（rotation 専用・示唆）** | [回転に近い 2D 谷で、逆πノイズを「示唆」として比べる](https://zenn.dev/cocoa3j21/articles/c04f92631055ed) |
+| **Zenn（cosmic・別テーマ）** | [閉じた玩具宇宙で…「示唆」として眺める](https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c) |
 | **GitHub** | [cocoa3j21/inverse-pi-optimizer](https://github.com/cocoa3j21/inverse-pi-optimizer) |
 | **Buy Me a Coffee** | [cocoa3j21](https://www.buymeacoffee.com/cocoa3j21) |
 
@@ -80,4 +81,4 @@ python rotation_minimal.py --multiseed --trials 1000
 | :--- | :--- | :--- |
 | 2 | `rotation_minimal` ミラー反映 | **完了** — 本ディレクトリ |
 | 3 | Zenn 記事（cosmic） | **公開済み** — [Zenn 記事](https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c) |
-| 4 | Zenn 記事（rotation） | **既存記事あり** — https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c（開発正本草案: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/rotation_minimal/ZENN_ARTICLE_DRAFT.md) は**保存のみ・未投稿**） |
+| 4 | Zenn 記事（rotation） | **公開済（2026-11-25）** — [c04f92631055ed](https://zenn.dev/cocoa3j21/articles/c04f92631055ed)（原稿: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/rotation_minimal/ZENN_ARTICLE_DRAFT.md)） |
