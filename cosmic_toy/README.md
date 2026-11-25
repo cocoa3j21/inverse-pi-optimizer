@@ -62,11 +62,11 @@ python cosmic_collapse_time_arrow.py
 | 種別 | URL |
 | :--- | :--- |
 | **Zenn（逆πシリーズ・マトリクス実験）** | [不可解な「逆円周率ノイズ」を、局所解からAIを救うアテにする](https://zenn.dev/cocoa3j21/articles/b72a764450e23a) |
-| **Zenn（rotation_minimal 系・既存記事）** | [Zenn 記事](https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c) |
+| **Zenn（cosmic・玩具宇宙）** | [閉じた玩具宇宙で、重力だけ・時間の矢・循環を「示唆」として眺める](https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c) |
 | **GitHub** | [cocoa3j21/inverse-pi-optimizer](https://github.com/cocoa3j21/inverse-pi-optimizer)（本ミラー） |
 | **Buy Me a Coffee** | [cocoa3j21](https://www.buymeacoffee.com/cocoa3j21) |
 
-玩具宇宙向け Zenn は**草案済み**（開発正本: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md)）。Zenn 公開後は本 README の cosmic 行を記事 URL に差し替えます。
+玩具宇宙の Zenn は**公開済み**（上記 cosmic 行）。開発正本の原稿: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md)。
 
 ## 今後の予定
 
@@ -75,7 +75,7 @@ python cosmic_collapse_time_arrow.py
 | # | 項目 | 状態 |
 | :--- | :--- | :--- |
 | 2 | `rotation_minimal` ミラー反映 | **完了** — [`../rotation_minimal/`](../rotation_minimal/) |
-| 3 | Zenn 記事（cosmic） | **草案済み** — 開発正本 [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md)（示唆・Q1–Q5）。公開記事: https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c |
+| 3 | Zenn 記事（cosmic） | **公開済み** — [Zenn 記事](https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c)（原稿: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md)） |
 | 4 | Zenn 記事（rotation） | **既存記事あり** — https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c（rotation 草案の保存のみ: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/rotation_minimal/ZENN_ARTICLE_DRAFT.md)） |
 
 継続メモ: 開発正本との差分はスクリプト SHA と代表図のみを定期同期。

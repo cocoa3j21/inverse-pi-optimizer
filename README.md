@@ -28,7 +28,7 @@
 | :--- | :--- |
 | [`cosmic_toy/`](cosmic_toy/) — スクリプト・README・代表図 | [Labs/cosmic_toy @ ai-budget-meter](https://github.com/cocoa3j21/ai-budget-meter/tree/master/Labs/cosmic_toy) |
 
-詳細・Q1–Q5 の実測サマリ: [`cosmic_toy/README.md`](cosmic_toy/README.md)
+詳細・Q1–Q5 の実測サマリ: [`cosmic_toy/README.md`](cosmic_toy/README.md) · [Zenn（公開済み）](https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c)
 
 ![cosmic_toy 代表図](cosmic_toy/figures/cosmic_collapse_time_arrow.png)
 
