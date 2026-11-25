@@ -1,0 +1,9 @@
+# 巨大な実行ログは公開ミラーに載せない（再実行で生成）
+results/
+results_new/
+results_new_quick/
+figures_new/
+figures_new_quick/
+__pycache__/
+*.csv
+*.json

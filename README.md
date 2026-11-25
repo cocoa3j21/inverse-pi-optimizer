@@ -19,6 +19,21 @@
 
 ---
 
+## 🌌 cosmic_toy（閉じた玩具宇宙）
+
+逆πシリーズの派生として、**2 次元・重力のみの玩具宇宙**で凝縮・時間の矢・循環を数値追跡しています。
+結論は**示唆**のみ（宇宙論の証明ではありません）。
+
+| 公開ミラー（本リポジトリ） | 開発正本（フルログ） |
+| :--- | :--- |
+| [`cosmic_toy/`](cosmic_toy/) — スクリプト・README・代表図 | [Labs/cosmic_toy @ ai-budget-meter](https://github.com/cocoa3j21/ai-budget-meter/tree/master/Labs/cosmic_toy) |
+
+詳細・Q1–Q5 の実測サマリ: [`cosmic_toy/README.md`](cosmic_toy/README.md)
+
+![cosmic_toy 代表図](cosmic_toy/figures/cosmic_collapse_time_arrow.png)
+
+---
+
 ## 🚀 収録スクリプトと実行結果
 
 ### 1. 軌跡のシミュレーション (`anti_circle_generator.py`)
