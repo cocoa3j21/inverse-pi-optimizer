@@ -75,8 +75,8 @@ python cosmic_collapse_time_arrow.py
 | # | 項目 | 状態 |
 | :--- | :--- | :--- |
 | 2 | `rotation_minimal` ミラー反映 | **完了** — [`../rotation_minimal/`](../rotation_minimal/) |
-| 3 | Zenn 記事（cosmic） | **草案済み** — 上記 `ZENN_ARTICLE_DRAFT.md` |
-| 4 | Zenn 記事（rotation） | **既存記事あり** — https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c |
+| 3 | Zenn 記事（cosmic） | **草案済み** — 開発正本 [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md)（示唆・Q1–Q5）。公開記事: https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c |
+| 4 | Zenn 記事（rotation） | **既存記事あり** — https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c（rotation 草案の保存のみ: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/rotation_minimal/ZENN_ARTICLE_DRAFT.md)） |
 
 継続メモ: 開発正本との差分はスクリプト SHA と代表図のみを定期同期。
 
