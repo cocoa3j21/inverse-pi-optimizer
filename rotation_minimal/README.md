@@ -80,4 +80,4 @@ python rotation_minimal.py --multiseed --trials 1000
 | :--- | :--- | :--- |
 | 2 | `rotation_minimal` ミラー反映 | **完了** — 本ディレクトリ |
 | 3 | Zenn 記事（cosmic） | **草案済み** — [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md) |
-| 4 | Zenn 記事（rotation） | **既存記事あり** — https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c |
+| 4 | Zenn 記事（rotation） | **既存記事あり** — https://zenn.dev/cocoa3j21/articles/2fc28f602b0a6c（開発正本草案: [ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/rotation_minimal/ZENN_ARTICLE_DRAFT.md) は**保存のみ・未投稿**） |
