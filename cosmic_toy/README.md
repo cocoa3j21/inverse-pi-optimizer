@@ -65,7 +65,7 @@ python cosmic_collapse_time_arrow.py
 | **GitHub** | [cocoa3j21/inverse-pi-optimizer](https://github.com/cocoa3j21/inverse-pi-optimizer)（本ミラー） |
 | **Buy Me a Coffee** | [cocoa3j21](https://www.buymeacoffee.com/cocoa3j21) |
 
-玩具宇宙専用の Zenn 記事は**執筆予定**です。公開時は本 README のリンクを更新します（記事内容と数値サマリを同期する方針）。
+玩具宇宙専用の Zenn 記事は**草案済み**（開発正本: [Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md](https://github.com/cocoa3j21/ai-budget-meter/blob/master/Labs/cosmic_toy/ZENN_ARTICLE_DRAFT.md)）。Zenn 公開後は本 README のリンクを記事 URL に差し替えます。
 
 ## 今後の予定
 
